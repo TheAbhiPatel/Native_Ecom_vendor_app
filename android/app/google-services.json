@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758677118226",
+    "project_id": "ecomvendorapp",
+    "storage_bucket": "ecomvendorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758677118226:android:421fd39709d601b8ef27cb",
+        "android_client_info": {
+          "package_name": "com.ecomvender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758677118226-pkp5pvocjha2nrvd4mg99r45ksv7rn1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2p7QrZnJhaEXyQD1YN2YW0AtCpdohORw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758677118226-pkp5pvocjha2nrvd4mg99r45ksv7rn1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
